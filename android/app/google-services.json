@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "3084943652",
+    "firebase_url": "https://flash-chat-flutter-bb303.firebaseio.com",
+    "project_id": "flash-chat-flutter-bb303",
+    "storage_bucket": "flash-chat-flutter-bb303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3084943652:android:88ef0ce580dad84cff73b1",
+        "android_client_info": {
+          "package_name": "app.takumi.obayshi.flash_chat_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3084943652-snattbautjpj0nppu04f6n8a6i0ega4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt2Hj5-8rEwba1AlyfZ0tRFn_NK2V3Ko0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3084943652-snattbautjpj0nppu04f6n8a6i0ega4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

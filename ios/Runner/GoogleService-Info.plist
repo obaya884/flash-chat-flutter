@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>3084943652-64gjic3dca7k5fivfn6hutc5jsrnb0fs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.3084943652-64gjic3dca7k5fivfn6hutc5jsrnb0fs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDLoQaXpEmJ_npdcWFjXgIIopZIXalcJVA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>3084943652</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.takumi.flashChatFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>flash-chat-flutter-bb303</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flash-chat-flutter-bb303.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:3084943652:ios:1c966b58757f060aff73b1</string>
+	<key>DATABASE_URL</key>
+	<string>https://flash-chat-flutter-bb303.firebaseio.com</string>
+</dict>
+</plist>
